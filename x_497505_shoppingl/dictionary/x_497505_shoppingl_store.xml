@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="store" max_length="40" name="x_497505_shoppingl_store" type="collection">
+        <element label="kroger" max_length="40" name="kroger" type="string"/>
+        <element label="Parivar" max_length="40" name="parivar" type="string"/>
+        <element label="target" max_length="40" name="target" type="string"/>
+        <element label="walmart" max_length="40" name="walmart" type="string"/>
+    </element>
+</database>

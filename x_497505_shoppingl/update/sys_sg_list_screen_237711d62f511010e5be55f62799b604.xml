@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Mobile Shopping list Shopping item</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Cart">2b7719d22f511010e5be55f62799b6b9</icon>
+        <name>Shopping items</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-11 16:36:41</sys_created_on>
+        <sys_id>237711d62f511010e5be55f62799b604</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Shopping items</sys_name>
+        <sys_package display_value="shoppingList" source="x_497505_shoppingl">5b2599d22f511010e5be55f62799b687</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shoppingList">5b2599d22f511010e5be55f62799b687</sys_scope>
+        <sys_update_name>sys_sg_list_screen_237711d62f511010e5be55f62799b604</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-11 17:35:58</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=237711d62f511010e5be55f62799b604"/>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="kroger" label="Kroger" language="en" table="x_497505_shoppingl_store">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>kroger</element>
+            <help/>
+            <hint/>
+            <label>Kroger</label>
+            <language>en</language>
+            <name>x_497505_shoppingl_store</name>
+            <plural>Krogers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 16:48:25</sys_created_on>
+            <sys_id>672a1d1a2f511010e5be55f62799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Kroger</sys_name>
+            <sys_package display_value="shoppingList" source="x_497505_shoppingl">5b2599d22f511010e5be55f62799b687</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="shoppingList">5b2599d22f511010e5be55f62799b687</sys_scope>
+            <sys_update_name>sys_documentation_x_497505_shoppingl_store_kroger_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 16:48:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
